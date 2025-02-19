@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 ![News la](https://github.com/jstettnerbc/jstettnerbc/assets/84310458/2457dbb2-7d0f-43af-8e1d-7d29de48a20f)
 
 
-![bc-Signet_RGB_orange](https://github.com/user-attachments/assets/66d8f1e7-7744-4b2c-ad33-c66bf941360d)
+<img width="500" alt="bc-logo" src="[https://github.com/user-attachments/assets/66d8f1e7-7744-4b2c-ad33-c66bf941360d)](https://github.com/user-attachments/assets/66d8f1e7-7744-4b2c-ad33-c66bf941360d)">
