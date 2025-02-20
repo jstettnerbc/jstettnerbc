@@ -7,9 +7,8 @@ You can click the Preview link to take a look at your changes.
 
 <img width="61" alt="image" src="https://github.com/jstettnerbc/jstettnerbc/assets/84310458/3ebcd671-10a0-4970-8dd1-3a3a17727c4c">
 
-<img width="500" alt="bc-logo" src="[https://github.com/jstettnerbc/jstettnerbc/assets/84310458/3ebcd671-10a0-4970-8dd1-3a3a17727c4c](https://github.com/jstettnerbc/jstettnerbc/assets/84310458/fd23c42b-2b89-4d9d-aea9-8150557dfbe4)https://github.com/jstettnerbc/jstettnerbc/assets/84310458/fd23c42b-2b89-4d9d-aea9-8150557dfbe4">
-
 ![News la](https://github.com/jstettnerbc/jstettnerbc/assets/84310458/2457dbb2-7d0f-43af-8e1d-7d29de48a20f)
 
 
-<img width="500" alt="bc-logo" src="[https://github.com/user-attachments/assets/66d8f1e7-7744-4b2c-ad33-c66bf941360d)](https://github.com/user-attachments/assets/66d8f1e7-7744-4b2c-ad33-c66bf941360d)">
+
+![bc-Logo_RGB_orange](https://github.com/user-attachments/assets/ca1ff908-6d33-40ef-9fdb-1b3ffd8d6498)
